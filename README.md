@@ -1,4 +1,8 @@
-# test_mocha_default
+# Sample Reading List App
+
+## Live URL
+
+[https://ancient-castle-74889.herokuapp.com/](https://ancient-castle-74889.herokuapp.com/)
 
 ## Project setup
 ```
@@ -15,17 +19,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
+### Run Chai.js unit tests
 ```
 npm run test:unit
 ```
